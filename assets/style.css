@@ -1,0 +1,57 @@
+.section-one .container {
+    max-width: 768px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.section-one .inner-title {
+    text-align: center;
+}
+
+.section-one .inner-quest-title {
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.section-one .radio-quest {
+    margin-bottom: 15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+
+.section-one .pick-one-quest {
+    margin-bottom: 15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+
+.section-one .pick-some-quest {
+    margin-bottom: 15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+
+.section-one .text-quest {
+    margin-bottom: 15px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+
+
+.answer {
+    display: flex;
+    justify-content: space-between;
+    max-width: 592px;
+    align-items: center;
+    align-content: center;
+}
+
+.section-one .text-quest .answer {
+    max-width: 768px;
+}
